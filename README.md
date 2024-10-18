@@ -29,7 +29,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/user-list-app.git
+git clone [https://github.com/your-username/user-list-app.git](https://github.com/Jeena-softwareDeveloper/User-List.git)
 cd user-list-app
 Install dependencies:
 
